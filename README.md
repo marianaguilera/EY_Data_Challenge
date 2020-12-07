@@ -1,6 +1,6 @@
 # README
 
-The main analysis was performed in the Jupyter Notebook named: “Data_challenge_analysis.ipynb”. To run the Notebook it is necessary to download 2 additional python files:
+**It is required to download all the files and run the Jupyter Notebook to display all the Plotly visualizations.** The main analysis was performed in the Jupyter Notebook named: “Data_challenge_analysis.ipynb”. To run the Notebook it is necessary to download 2 additional python files:
 
 -	toolbox.py: used to process the raw datasets extracted from ANUIS.
 -	graphs.py: used to create all the visualizations.
